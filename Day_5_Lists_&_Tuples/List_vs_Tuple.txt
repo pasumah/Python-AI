@@ -1,0 +1,6 @@
+Feature  | List        | Tuple
+---------------------------------
+Syntax   | []          | ()
+Mutable  | ✅ Yes      | ❌ No
+Faster   | ❌ Slightly | ✅ Yes
+Use case | General     | Fixed data
